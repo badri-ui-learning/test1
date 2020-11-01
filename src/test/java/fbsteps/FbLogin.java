@@ -21,6 +21,7 @@ public class FbLogin
 	public void browser_is_invoked() 
 	{
 		System.out.println("Browser is opened");
+		System.out.println("Am in new branch");
 	}
 
 	@When("^the user navigates to login page$")
